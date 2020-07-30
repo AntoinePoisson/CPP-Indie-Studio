@@ -2,11 +2,14 @@
 ## Purpose:
 It's 2nd year project of Epitech.<br/>
 The aim of the project is to implement a cross-platform 3D video game with real-world tools.<br/>
+
 Cross-platform build system:<br/>
 • Linux: it must generates a Makefile to be able to build the project<br/>
 • Windows: it must generates a Visual Studio solution .sln (will be tested with Visual Studio 2019)<br/>
+
 Engine Graphic handled by Irrlicht 1.8.4<br/>
 Sounds and musics handled by SFML-audio 2.5<br/>
+
 The game implement is a Bomberman-like game.<br/>
 ![] ()
 
@@ -23,6 +26,7 @@ Here’s the required features :<br/>
 • Speed Up<br/>
 • Fire Up<br/>
 • Wall Pass<br/>
+
 ## Usage:
  - The easiest way to compile and run the program
 ```console
