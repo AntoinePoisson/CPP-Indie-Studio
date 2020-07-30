@@ -11,7 +11,7 @@ Engine Graphic handled by Irrlicht 1.8.4<br/>
 Sounds and musics handled by SFML-audio 2.5<br/>
 
 The game implement is a Bomberman-like game.<br/>
-![] ()
+<img src="https://github.com/AntoinePoisson/CPP-Studio/blob/master/ressources/images/imgGit.png" alt="" />
 
 Here’s the required features :<br/>
 • Local multi-player with the possibility the play with a friend + AI’s controlled bots.<br/>
