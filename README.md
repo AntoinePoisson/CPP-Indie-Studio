@@ -13,7 +13,7 @@ Sounds and musics handled by SFML-audio 2.5<br/>
 The game implement is a Bomberman-like game (see below).<br/>
 <img src="https://github.com/AntoinePoisson/CPP-Studio/blob/master/ressources/images/imgGit.png" alt="" />
 
-Here’s the required features :<br/>
+## Features:
 • Local multi-player with the possibility the play with a friend + AI’s controlled bots.<br/>
 • A main game menu (to start a new game or load an existing one).<br/>
 • Your game must feature 3D graphics but a 2D gameplay.<br/>
@@ -28,12 +28,12 @@ Here’s the required features :<br/>
 • Wall Pass<br/>
 
 ## Usage:
- - The easiest way to compile and run the program
+ - The easiest way to compile and run:
 ```console
 $ ./make.sh
 ```
 
- - Clear build files
+ - Clear build files:
 ```console
 $ ./clear.sh
 ```
