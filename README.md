@@ -10,7 +10,7 @@ Cross-platform build system:<br/>
 Engine Graphic handled by Irrlicht 1.8.4<br/>
 Sounds and musics handled by SFML-audio 2.5<br/>
 
-The game implement is a Bomberman-like game.<br/>
+The game implement is a Bomberman-like game (see below).<br/>
 <img src="https://github.com/AntoinePoisson/CPP-Studio/blob/master/ressources/images/imgGit.png" alt="" />
 
 Here’s the required features :<br/>
