@@ -1,4 +1,4 @@
-# CPP-Studio
+# CPP-Indie-Studio
 ## Purpose:
 It's 2nd year project of Epitech.<br/>
 The aim of the project is to implement a cross-platform 3D video game with real-world tools.<br/>
